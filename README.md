@@ -11,11 +11,18 @@ This is a simple Weather App that fetches real-time weather data using the OpenW
 🌦 Dynamic weather icons based on conditions
 
 🚀 User-friendly interface
+
 ## Tech Stack
 HTML
+
 CSS
+
 JavaScript (Fetch API)
+
 ## Usage
 Enter a city name in the search box.
+
 Click the "Search" button or press Enter.
+
 View the weather details displayed on the screen.
+
