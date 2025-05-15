@@ -1,4 +1,4 @@
-# Weather App
+# Weather Forecast
 This is a simple Weather App that fetches real-time weather data using the OpenWeatherMap API. Users can search for any city to get current temperature, humidity, wind speed, and weather conditions.
 
 ## Features 
